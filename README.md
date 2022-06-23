@@ -14,7 +14,7 @@ Follow https://github.com/pytorch/android-demo-app/tree/master/SpeechRecognition
 
 | "Female" | "Male" | "Total" |
 |---|---|---|
-| 11.88 | 11,58 | 11,90 |
+| 11.88 | 11.58 | 11.90 |
 
 *Result (CER)*:
 
